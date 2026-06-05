@@ -10,9 +10,9 @@ A arquitetura do sistema segue o modelo MVC (Model-View-Controller), garantindo 
 ## 📂 Organização dos Repositórios
 Para garantir modularidade e reusabilidade do código, o ecossistema do projeto foi dividido nos seguintes repositórios:
 
-*   **[pce-backend](link_do_repositorio_aqui):** API RESTful desenvolvida em Node.js com Express e banco de dados relacional PostgreSQL. Contém as rotas de autenticação, histórico de compras e regras de negócio.
-*   **[pce-frontend](link_do_repositorio_aqui):** Interface de usuário responsiva desenvolvida em React.js, consumindo a API do backend via Axios. Inclui fluxos de login seguro, visualização de histórico e repetição de pedidos.
-*   **[pce-modelos-uml](link_do_repositorio_aqui):** Repositório dedicado à engenharia de software e modelagem do sistema, contendo os arquivos de diagramação e protótipos de UX.
+*   **[pce-backend](https://github.com/pce-farmacia-manipulacao/pce-backend):** API RESTful desenvolvida em Node.js com Express e banco de dados relacional PostgreSQL. Contém as rotas de autenticação, histórico de compras e regras de negócio.
+*   **[pce-frontend](https://github.com/pce-farmacia-manipulacao/pce-frontend):** Interface de usuário responsiva desenvolvida em React.js, consumindo a API do backend via Axios. Inclui fluxos de login seguro, visualização de histórico e repetição de pedidos.
+*   **[pce-modelos-uml](https://github.com/pce-farmacia-manipulacao/pce-frontend):** Repositório dedicado à engenharia de software e modelagem do sistema, contendo os arquivos de diagramação e protótipos de UX.
 
 ---
 
